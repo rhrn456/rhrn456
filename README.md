@@ -2,6 +2,15 @@
 # 📝강수현 설명서
 🙇 안녕하세요, 코딩을 즐기는 **백엔드개발자 강수현** 입니다!
 <br>
+<br>
+✨ 저는 다양한 프로젝트와 부트캠프 활동을 통해 백엔드 개발 실력을 향상시키기 위해 노력하고 있습니다.<br> 
+기술적 지식을 넓히고 복잡한 문제를 해결하는 데 필요한 다양한 기술을 습득하고 있습니다.
+저에대해 궁굼하시다면 <br>
+[상세 설명서](https://jade-antlion-218.notion.site/Hello-I-m-Suhyeon-Kang-6a23750cd7c142f0b9449e4655db1cd9?pvs=4)
+<br>
+<br>
+
+
 
 <!-- Body -->
 ## 💻기술 스택
@@ -24,5 +33,5 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-
+## 📈 기술 통계
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhrn456)](https://github.com/anuraghazra/github-readme-stats)
